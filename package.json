@@ -2,9 +2,9 @@
   "name": "aoc-2024",
   "version": "1.0.0",
   "description": "Another Go at the Advent of Code",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
-    "start": "node index.js",
+    "start": "node --experimental-strip-types --experimental-transform-types index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
