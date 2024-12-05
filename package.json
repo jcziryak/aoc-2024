@@ -1,0 +1,21 @@
+{
+  "name": "aoc-2024",
+  "version": "1.0.0",
+  "description": "Another Go at the Advent of Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcziryak/aoc-2024.git"
+  },
+  "author": "James Cziryak <jcziryak@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcziryak/aoc-2024/issues"
+  },
+  "homepage": "https://github.com/jcziryak/aoc-2024#readme"
+}
